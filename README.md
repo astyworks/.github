@@ -7,7 +7,7 @@ We design, build, and maintain systems that make organizations move faster
 by clarifying structure and decision flow.
 
 ## Products
-- **Proposal-Approval-System**  
+- **[Proposal-Approval-System](https://github.com/astyworks/Proposal-Approval-System)**  
   An approval and decision workflow system developed and maintained by ASTY WORKS.
 
 ## Services
